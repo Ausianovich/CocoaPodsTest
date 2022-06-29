@@ -1,0 +1,16 @@
+PODS:
+  - CocoaPodsTest_Ausianovich (1.0.1)
+
+DEPENDENCIES:
+  - CocoaPodsTest_Ausianovich
+
+SPEC REPOS:
+  trunk:
+    - CocoaPodsTest_Ausianovich
+
+SPEC CHECKSUMS:
+  CocoaPodsTest_Ausianovich: fd7d1de786c4855670b7b60e757a0548f8da6450
+
+PODFILE CHECKSUM: d4aafe9ec5f2542004ad492d9fae7308ff1f31ea
+
+COCOAPODS: 1.11.2
