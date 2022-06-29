@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'CocoaPodsTest_Ausianovich'  
-s.version          = '1.0.5'
+s.version          = '1.0.2'
 s.summary          = 'Custom pod creation for iOS' 
 s.description      = <<-DESC 
 Test description sow I'd like to present this POD
