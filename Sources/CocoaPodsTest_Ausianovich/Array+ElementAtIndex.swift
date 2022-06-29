@@ -15,12 +15,4 @@ extension Array {
             return nil
         }
     }
-    
-    public func element2(at index: Int) -> Element? {
-        if self.indices.contains(index) {
-            return self[index]
-        } else {
-            return nil
-        }
-    }
 }

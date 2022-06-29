@@ -91,6 +91,8 @@
 			dependencies = (
 			);
 			name = TestPodSample;
+			packageProductDependencies = (
+			);
 			productName = TestPodSample;
 			productReference = 2FFDA0CF286C7CD9008B5312 /* TestPodSample.app */;
 			productType = "com.apple.product-type.application";
@@ -119,6 +121,8 @@
 				Base,
 			);
 			mainGroup = 2FFDA0C6286C7CD9008B5312;
+			packageReferences = (
+			);
 			productRefGroup = 2FFDA0D0286C7CD9008B5312 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
